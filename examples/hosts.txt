@@ -1,0 +1,4 @@
+[groups]
+v400=vision401.caltech.edu,vision402.caltech.edu,vision403.caltech.edu,vision404.caltech.edu,vision405.caltech.edu,vision406.caltech.edu,vision407.caltech.edu,vision408.caltech.edu
+v500=vision501.caltech.edu,vision502.caltech.edu,vision503.caltech.edu,vision504.caltech.edu
+v600=vision601.caltech.edu,vision602.caltech.edu,vision603.caltech.edu,vision604.caltech.edu
